@@ -1,0 +1,41 @@
+body { 
+    background:black;
+    font-family:'Playpen Sans', cursive;
+    }
+    div.post {
+        background:#ffffff;
+        width: 600px;
+        margin: 20px;
+    }
+    div.post-header {
+        width: 600px;
+        margin: 0;
+        display: flex;
+        justify-content: space-between;
+    }
+    .izquierda {
+        display: flex;
+    }
+    div.container {
+width: 600px;
+margin: auto;
+    }
+    div.post img {
+        width: 100%;
+    }
+    div.emoticon {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    i {
+        font-size: 2.1rem;
+        margin: 3px;
+        padding: 3px;
+    }
+    div.post-header p {
+        padding:3px;
+        margin: 0;
+    }
+    
